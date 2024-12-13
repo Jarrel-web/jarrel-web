@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarrel-web&show_icons=true&locale=en" alt="jarrel-web" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Jarrel-web)
